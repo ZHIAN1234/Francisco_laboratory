@@ -102,5 +102,6 @@ public class TestVehicle {
         System.out.println("\nMotorcycle Details:");
         motorcycle.displayInfo();
 
+        scanner.close();
     }
 }

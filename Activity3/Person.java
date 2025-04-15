@@ -41,5 +41,7 @@ public void displayInfo() {
     staff.displayInfo();
     System.out.println();
 
+    scan.close();
+
     }
 }
